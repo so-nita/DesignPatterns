@@ -1,5 +1,5 @@
 # Design Patterns
-##I. Structural Design Patterns
+## I. Structural Design Patterns
 	  - Definition : 
 		1. Decorator
   
@@ -16,7 +16,7 @@
 		7. Proxy
 
 
-##II. Creational Design Patterns
+## II. Creational Design Patterns
     - Definition
     	
 		  1. Factory Method
@@ -31,7 +31,7 @@
 
 
 
-##III. Behaviral Design Patterns 
+## III. Behaviral Design Patterns 
   	- Definition :
   		1.  Chain of Responsibility
     
