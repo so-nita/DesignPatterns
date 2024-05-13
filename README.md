@@ -1,6 +1,7 @@
 # Design Patterns
 ## I. Structural Design Patterns
-	  - Definition : 
+	### Definition : 
+ 	### There are generally seven main types of Structural design patterns:
 		1. Decorator
   
 		2. Bridge
@@ -17,9 +18,9 @@
 
 
 ## II. Creational Design Patterns
-    - Definition
-    	
-		  1. Factory Method
+	## Definition : 
+ 	### There are generally five main types of Creational design patterns:
+		1. Factory Method
   
   		2. Singleton
     
@@ -32,7 +33,8 @@
 
 
 ## III. Behaviral Design Patterns 
-  	- Definition :
+	### Definition :
+ 	### There are generally ten main types of Behaviral design patterns:
   		1.  Chain of Responsibility
     
   		2.  Command
