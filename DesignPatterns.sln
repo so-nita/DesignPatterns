@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitOfWork", "UnitOfWork\Un
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{CADCAE76-D170-4AB6-BC9B-71CB9558FD93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{E2720D4F-4835-4460-A237-EC54D22C8249}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{CADCAE76-D170-4AB6-BC9B-71CB9558FD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CADCAE76-D170-4AB6-BC9B-71CB9558FD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CADCAE76-D170-4AB6-BC9B-71CB9558FD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2720D4F-4835-4460-A237-EC54D22C8249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2720D4F-4835-4460-A237-EC54D22C8249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2720D4F-4835-4460-A237-EC54D22C8249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2720D4F-4835-4460-A237-EC54D22C8249}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,6 +63,7 @@ Global
 		{8BD4F5DE-0111-4732-856A-586F958F57B2} = {369673F1-8CB7-4282-BFF6-9D51FC68A55B}
 		{1D43BE14-2210-4D2F-A6EF-569A121E0D3E} = {369673F1-8CB7-4282-BFF6-9D51FC68A55B}
 		{CADCAE76-D170-4AB6-BC9B-71CB9558FD93} = {0327322A-C926-4135-BD3A-15BEF014AD81}
+		{E2720D4F-4835-4460-A237-EC54D22C8249} = {0327322A-C926-4135-BD3A-15BEF014AD81}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B38AEA7-5C8A-4C1C-91D7-E5282C250ADC}
