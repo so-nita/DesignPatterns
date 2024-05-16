@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WepyjfTEM7IQNYLY6De92FIFY9iJgVUgq8Z8/4SWLL9k1WAL2ZLFh7POB3gIvNxFMqTR7m37lB9CljXASRkoPA==",
+  "dgSpecHash": "7zgib+ZrIIIauHqjFsam9kOSjuMts/y1BWVS3I6UvVJydImpdDhgod5Igpuwl1LBNMTDDUpNLMUYT74KmCk97Q==",
   "success": true,
-  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
+  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\StructuralPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

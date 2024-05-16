@@ -1,11 +1,10 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{2A4E6E64-5FA8-43C3-8C50-D742BA0034EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "StructuralPatterns\DecoratorPattern\DecoratorPattern.csproj", "{2A4E6E64-5FA8-43C3-8C50-D742BA0034EB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{59C69EA8-983F-4F76-B8AA-94FF43DC85EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "StructuralPatterns\AdapterPattern\AdapterPattern.csproj", "{59C69EA8-983F-4F76-B8AA-94FF43DC85EC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "StructuralPatterns", "{B802B4A0-3B32-4C4E-BA87-137071A92632}"
 EndProject
@@ -15,13 +14,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "Behav
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdditionalPatterns", "AdditionalPatterns", "{369673F1-8CB7-4282-BFF6-9D51FC68A55B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{8BD4F5DE-0111-4732-856A-586F958F57B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "AdditionalPatterns\Repository\Repository.csproj", "{8BD4F5DE-0111-4732-856A-586F958F57B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitOfWork", "UnitOfWork\UnitOfWork.csproj", "{1D43BE14-2210-4D2F-A6EF-569A121E0D3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitOfWork", "AdditionalPatterns\UnitOfWork\UnitOfWork.csproj", "{1D43BE14-2210-4D2F-A6EF-569A121E0D3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{CADCAE76-D170-4AB6-BC9B-71CB9558FD93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "BehavioralPatterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{CADCAE76-D170-4AB6-BC9B-71CB9558FD93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{E2720D4F-4835-4460-A237-EC54D22C8249}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "BehavioralPatterns\StatePattern\StatePattern.csproj", "{E2720D4F-4835-4460-A237-EC54D22C8249}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyFolder\\DesignPattern\\DesignPatterns\\UnitOfWork\\UnitOfWork.csproj": {}
+    "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdditionalPatterns\\UnitOfWork\\UnitOfWork.csproj": {}
   },
   "projects": {
-    "D:\\MyFolder\\DesignPattern\\DesignPatterns\\UnitOfWork\\UnitOfWork.csproj": {
+    "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdditionalPatterns\\UnitOfWork\\UnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\UnitOfWork\\UnitOfWork.csproj",
+        "projectUniqueName": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdditionalPatterns\\UnitOfWork\\UnitOfWork.csproj",
         "projectName": "UnitOfWork",
-        "projectPath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\UnitOfWork\\UnitOfWork.csproj",
+        "projectPath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdditionalPatterns\\UnitOfWork\\UnitOfWork.csproj",
         "packagesPath": "C:\\Users\\Back-End.07\\.nuget\\packages\\",
-        "outputPath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\UnitOfWork\\obj\\",
+        "outputPath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdditionalPatterns\\UnitOfWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

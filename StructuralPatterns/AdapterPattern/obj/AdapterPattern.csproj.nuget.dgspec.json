@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj": {}
+    "D:\\MyFolder\\DesignPattern\\DesignPatterns\\StructuralPatterns\\AdapterPattern\\AdapterPattern.csproj": {}
   },
   "projects": {
-    "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj": {
+    "D:\\MyFolder\\DesignPattern\\DesignPatterns\\StructuralPatterns\\AdapterPattern\\AdapterPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj",
+        "projectUniqueName": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\StructuralPatterns\\AdapterPattern\\AdapterPattern.csproj",
         "projectName": "AdapterPattern",
-        "projectPath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj",
+        "projectPath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\StructuralPatterns\\AdapterPattern\\AdapterPattern.csproj",
         "packagesPath": "C:\\Users\\Back-End.07\\.nuget\\packages\\",
-        "outputPath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\AdapterPattern\\obj\\",
+        "outputPath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\StructuralPatterns\\AdapterPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CcDP8NGrmdIsoLvfwQ8tiAw6sn8IlruHTTqIIAr3FQQx4bU7ImgGomE1NPDrMKGjS7qKTMCE4cKjvOeWq35QkQ==",
+  "dgSpecHash": "PMBN//pz78SUNBWK5F9DMcb7oceF3uD9re1Gg/ErF1voxACYKa/CBKorG0YLKLh+6wl3987gnay92Ot8asEtKQ==",
   "success": true,
-  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\StatePattern\\StatePattern.csproj",
+  "projectFilePath": "D:\\MyFolder\\DesignPattern\\DesignPatterns\\BehavioralPatterns\\StatePattern\\StatePattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
