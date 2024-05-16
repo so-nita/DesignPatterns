@@ -1,14 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace ChainOfResponsibilityPattern.Models
 {
     public abstract class Approver
     {
-        protected Approver? Next {  get; set; }
+        protected Approver? Next { get; set; }
         public Approver RegisterNext(Approver next)
         {
             Next = next;

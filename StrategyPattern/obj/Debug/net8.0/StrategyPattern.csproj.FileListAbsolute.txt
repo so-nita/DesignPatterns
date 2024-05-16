@@ -1,0 +1,15 @@
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\bin\Debug\net8.0\StrategyPattern.exe
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\bin\Debug\net8.0\StrategyPattern.deps.json
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\bin\Debug\net8.0\StrategyPattern.runtimeconfig.json
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\bin\Debug\net8.0\StrategyPattern.dll
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\bin\Debug\net8.0\StrategyPattern.pdb
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfo.cs
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.sourcelink.json
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.dll
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\refint\StrategyPattern.dll
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.pdb
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.genruntimeconfig.cache
+D:\MyFolder\DesignPattern\DesignPatterns\StrategyPattern\obj\Debug\net8.0\ref\StrategyPattern.dll
